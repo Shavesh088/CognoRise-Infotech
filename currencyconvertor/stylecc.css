@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(168, 82, 82);
+    margin: 50px;
+}
+
+#converter {
+    display: flex;
+    flex-direction: column;
+    background-color:darkgray ;
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 5%;
+    margin-right: 35%;
+    padding: 20px;
+}
+
+input, select, button {
+    margin: 10px;
+    padding: 10px;
+}
+.hovor:hover{
+    background-color: aquamarine;
+}
+
+#convertBtn:hover{
+    background-color: darkgreen;
+}
