@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: darkred;
+}
+
+li {
+  display: inline;
+  font-size: large;
+}
+.nithu{
+    padding-left: 50%;
+    display: inline-block;
+    font-size: x-large;
+}
+.clr{
+    color: red;
+}
+
+.navbar{
+    background-color: bisque;
+    color: white;
+}
+
+#about{
+    background-color: aquamarine;
+    background-image: url("pic2.jpg");
+    background-repeat: no-repeat;
+}
+.hii{
+    padding-left: 40%;
+    padding-top: 60px;
+    padding-bottom: 25px;
+    border-radius: 1px;
+    border-color: black;
+    border-width: 15px;
+}
+
+
+#contactus{
+    background-color: black;
+    color: brown;
+    padding: 20px;
+    padding-left: 15%;
+    padding-right: 40%;
+    background-image: url("contact.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+#resume{
+    background-color: lightgray;
+    padding: 10px;
+    padding-right: 45%;
+    background-image: url("OIPre.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+#experience{
+    background-color: aquamarine;
+    padding-left: 40%;
+    background-image: url("OIPe.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#education{
+    background-color: lightgray;
+    padding: 10px;
+    padding-right: 45%;
+    background-image: url("downloadedu.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#projects{
+    background-color: aquamarine;
+    padding-left: 40%;
+    background-image: url("OIP2.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#skills{
+    background-color: lightgray;
+    padding: 25px;
+    background-image: url("OIP\ \(1\).jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.js{
+    list-style-type: square;
+}
+
+h2{
+    font-weight: 100;
+    font-size: x-large;
+    padding: 10px;
+    padding-left: 10%;
+}
+h1{
+    font-size: xx-large;
+
+}
+.button{
+    padding-left: 25%;
+    font-size: xx-large;
+    color: brown;
+}
+.button:hover{
+    color: darkgreen;
+}
+#bt:hover{
+    color: blue;
+}
+.clr:hover{
+    color: darkturquoise;
+}
